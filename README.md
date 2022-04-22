@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nirmal-Kumar97
-- 👀 I’m interested in Fitness
+-Currently working @ YAVAR TECH 
 - 🌱 I’m currently a Fullstack Developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fitness
 - 📫 How to reach me 
 - nirmalnegus1997@gmail.com
 
