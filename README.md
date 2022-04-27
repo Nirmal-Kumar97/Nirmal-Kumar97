@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Nirmal
 #### I am a UI Developer
-![I am a UI Developer](https://user-images.githubusercontent.com/84436580/165487918-e20ce3e7-a5b7-426c-9bd6-3861f9f969a5.png)
 
 - 👋 Hi, I’m @Nirmal-Kumar97
 -    Currently working @ YAVAR TECH 
