@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nirmal
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nirmal-Kumar97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NirmalKumhttps://www.linkedin.com/in/nirmal-kumar-7010bb171ar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Wilfred_nirmal/)  
 #### I am a UI Developer
-
 - 👋 Hi, I’m @Nirmal-Kumar97
 -    Currently working @ YAVAR TECH 
 - 🌱 I’m currently a Fullstack Developer
@@ -9,11 +9,6 @@
 - nirmalyavartech@gmail.com(official)
 
 Skills:  REACT / JS / HTML / CSS / Python / Bootstrap
-
-- 🔭 I’m currently working on YAVAR Tech 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nirmal-Kumar97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NirmalKumhttps://www.linkedin.com/in/nirmal-kumar-7010bb171ar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Wilfred_nirmal/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Kumar97&show_icons=true&count_private=true)  
 
